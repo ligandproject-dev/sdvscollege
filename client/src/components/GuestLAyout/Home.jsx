@@ -88,7 +88,7 @@ const Home = () => {
     {
       src: "https://cdn-icons-png.flaticon.com/512/145/145807.png",
       alt: "LinkedIn",
-      link: "https://linkedin.com",
+      link: "https://www.linkedin.com/in/pavan-patil-279183369/",
     },
     {
       src: "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
@@ -607,7 +607,7 @@ const Home = () => {
             data-aos-delay="300"
           >
             <img
-              src="SDVS Book.jpg"
+              src="https://startuppakistan.com.pk/wp-content/uploads/2022/03/Youniform-School-Stills-64-of-66-scaled.jpg"
               alt="College Student"
               style={{
                 width: "100%",
