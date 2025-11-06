@@ -848,10 +848,18 @@ const GuestFooter = () => {
         </div>
       </div>
 
-      <div style={{ marginTop: "20px", fontSize: "0.8rem", color: "#bbb" }}>
-        &copy; Copyright 2025 All rights reserved | Powered by Ligand Software
-        Solutions
-      </div>
+     <div style={{ marginTop: "20px", fontSize: "0.8rem", color: "#bbb" }}>
+  &copy; Copyright 2025 All rights reserved |{" "} Powered by
+  <a
+    href="https://ligandsoftware.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{ fontSize: "0.8rem", color: "#bbb",marginLeft:"0.4rem" }}
+  >
+    Ligand Software Solutions
+  </a>
+</div>
+
 
       {/* Animation Styles */}
       <style>{`
