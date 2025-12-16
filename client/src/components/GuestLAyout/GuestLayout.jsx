@@ -75,7 +75,7 @@ const GuestLayout = () => {
         style={{
           flex: 1,
           marginTop: isMobile ? "80px" : "90px", // Push content below header
-          paddingBottom: "80px", // Avoid footer overlap
+          paddingBottom: "0px", // Avoid footer overlap
         }}
       >
         <Outlet />

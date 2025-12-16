@@ -17,7 +17,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import { BASE_API_URL, Img_BASE_URL } from "../../BaseAPI";
+import { BASE_API_URL,_BASE_URL , Img_BASE_URL } from "../../BaseAPI";
 
 const ManageEvents = () => {
   const [events, setEvents] = useState([]);
